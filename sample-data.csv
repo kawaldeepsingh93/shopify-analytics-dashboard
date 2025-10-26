@@ -1,0 +1,11 @@
+Name,Email,Total,Lineitem quantity,Lineitem name,Created at,Shipping Country,Lineitem price,Cost Price,Delivery Charge,Ads Spend,Packaging Cost,Shopify Fee
+#1001,customer1@email.com,799.98,2,Premium T-Shirt,2024-01-15T10:30:00Z,India,399.99,200,60,50,15,25
+#1002,customer2@email.com,599.99,1,Designer Hoodie,2024-01-16T14:20:00Z,India,599.99,300,50,80,20,30
+#1003,customer3@email.com,1299.99,1,Premium Jeans,2024-01-17T09:15:00Z,India,1299.99,600,70,100,25,40
+#1004,customer4@email.com,1199.97,3,Premium T-Shirt,2024-01-18T16:45:00Z,India,399.99,200,80,120,30,50
+#1005,customer5@email.com,899.99,1,Sports Shoes,2024-01-19T11:30:00Z,India,899.99,450,60,70,20,35
+#1006,customer6@email.com,499.99,1,Basic T-Shirt,2024-01-20T13:20:00Z,India,499.99,150,40,30,10,20
+#1007,customer7@email.com,2599.98,2,Premium Jeans,2024-01-21T15:10:00Z,India,1299.99,600,90,150,40,60
+#1008,customer8@email.com,2499.99,1,Leather Jacket,2024-01-22T12:00:00Z,India,2499.99,1200,100,200,50,80
+#1009,customer9@email.com,1799.99,1,Winter Coat,2024-01-23T10:45:00Z,India,1799.99,800,80,120,30,55
+#1010,customer10@email.com,699.99,1,Sports Cap,2024-01-24T14:30:00Z,India,699.99,250,50,40,15,25
